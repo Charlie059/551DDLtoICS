@@ -22,4 +22,4 @@ Forget your ECE551 DDL? Use this tool to convert txt file to ics file which can 
 
 (4) Use https://csv-to-ical.chimbori.com/ to convert csv to ics
 
-Cheer!
+Cheers!
