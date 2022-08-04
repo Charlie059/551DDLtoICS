@@ -1,0 +1,309 @@
+008_ch03_rq Due: Mon Aug 30 17:00:00 2021
+
+   -> requires 1
+009_read3 Due: Tue Aug 31 17:00:00 2021
+
+   -> requires 4
+010_read4 Due: Tue Aug 31 17:00:00 2021
+
+   -> requires 4
+011_numbers Due: Tue Aug 31 17:00:00 2021
+
+   -> requires 10
+012_comp_arith Due: Tue Aug 31 17:00:00 2021
+
+   -> requires 10
+013_complex_ty Due: Tue Aug 31 17:00:00 2021
+
+   -> requires 10
+014_ch04_rq Due: Wed Sep  1 17:00:00 2021
+
+   -> requires 1
+015_code1 Due: Thu Sep  2 17:00:00 2021
+
+   -> requires 10
+016_code2 Due: Thu Sep  2 17:00:00 2021
+
+   -> requires 10
+017_squares Due: Thu Sep  2 17:00:00 2021
+
+   -> requires 10
+018_read_squares Due: Thu Sep  2 17:00:00 2021
+
+   -> requires 10
+019_ch05_rq Due: Fri Sep  3 17:00:00 2021
+
+   -> requires 1
+020_retirement Due: Sat Sep  4 17:00:00 2021
+
+   -> requires 10
+021_rectangle Due: Sat Sep  4 17:00:00 2021
+
+   -> requires 10
+022_ch06_rq Due: Mon Sep  6 17:00:00 2021
+
+   -> requires 1
+023_testing1 Due: Tue Sep  7 17:00:00 2021
+
+   -> requires 1
+024_testing2 Due: Tue Sep  7 17:00:00 2021
+
+   -> requires 1
+025_debugging Due: Tue Sep  7 17:00:00 2021
+
+   -> requires 5
+026_ch07_rq Due: Wed Sep  8 17:00:00 2021
+
+   -> requires 1
+027_read_rec1 Due: Thu Sep  9 17:00:00 2021
+
+   -> requires 5
+028_tests_power Due: Thu Sep  9 17:00:00 2021
+
+   -> requires 1
+029_power_rec Due: Thu Sep  9 17:00:00 2021
+
+   -> requires 10
+030_ch08_rq Due: Mon Sep 13 17:00:00 2021
+
+   -> requires 1
+031_read_ptr1 Due: Tue Sep 14 17:00:00 2021
+
+   -> requires 5
+032_read_ptr2 Due: Tue Sep 14 17:00:00 2021
+
+   -> requires 5
+033_ch09_rq Due: Wed Sep 15 17:00:00 2021
+
+   -> requires 1
+034_read_arr1 Due: Thu Sep 16 17:00:00 2021
+
+   -> requires 5
+035_array_max Due: Thu Sep 16 17:00:00 2021
+
+   -> requires 10
+036_tests_subseq Due: Thu Sep 16 17:00:00 2021
+
+   -> requires 1
+037_array_subseq Due: Sat Sep 18 17:00:00 2021
+
+   -> requires 10
+038_ch10_rq Due: Mon Sep 20 17:00:00 2021
+
+   -> requires 1
+039_read_arr2 Due: Tue Sep 21 17:00:00 2021
+
+   -> requires 5
+040_id_mem_errors Due: Tue Sep 21 17:00:00 2021
+
+   -> requires 5
+041_reverse_str Due: Tue Sep 21 17:00:00 2021
+
+   -> requires 10
+042_bits_arr Due: Tue Sep 21 17:00:00 2021
+
+   -> requires 10
+043_eval1 Due: Wed Sep 29 17:00:00 2021
+ **HARD DEADLINE**
+   -> requires 1
+044_ch11_rq Due: Wed Sep 22 17:00:00 2021
+
+   -> requires 1
+045_read_arr3 Due: Thu Sep 23 17:00:00 2021
+
+   -> requires 5
+046_read_encr Due: Thu Sep 23 17:00:00 2021
+
+   -> requires 5
+047_break_encr Due: Thu Sep 23 17:00:00 2021
+
+   -> requires 10
+048_tests_rot_matrix Due: Sat Sep 25 17:00:00 2021
+
+   -> requires 1
+049_rot_matrix Due: Sat Sep 25 17:00:00 2021
+
+   -> requires 10
+050_ch12_rq Due: Mon Sep 27 17:00:00 2021
+
+   -> requires 1
+051_read_leaks Due: Tue Sep 28 17:00:00 2021
+
+   -> requires 5
+052_fix_vg_encr Due: Tue Sep 28 17:00:00 2021
+
+   -> requires 10
+053_sort_lines Due: Tue Sep 28 17:00:00 2021
+
+   -> requires 10
+054_minesweeper Due: Thu Sep 30 17:00:00 2021
+
+   -> requires 10
+055_ch13_rq Due: Fri Oct  1 17:00:00 2021
+
+   -> requires 1
+056_kvs Due: Thu Oct  7 17:00:00 2021
+
+   -> requires 10
+057_outname Due: Thu Oct  7 17:00:00 2021
+
+   -> requires 10
+058_counts Due: Sat Oct  9 17:00:00 2021
+
+   -> requires 10
+059_put_together Due: Sat Oct  9 17:00:00 2021
+
+   -> requires 10
+060_eval2 Due: Wed Oct 20 17:00:00 2021
+ **HARD DEADLINE**
+   -> requires 1
+061_ch14_rq Due: Mon Oct 11 17:00:00 2021
+
+   -> requires 1
+062_read_cpp Due: Tue Oct 12 17:00:00 2021
+
+   -> requires 5
+063_read_refs1 Due: Tue Oct 12 17:00:00 2021
+
+   -> requires 5
+064_vector_2d Due: Tue Oct 12 17:00:00 2021
+
+   -> requires 10
+065_ch15_rq Due: Wed Oct 13 17:00:00 2021
+
+   -> requires 1
+066_read_constr1 Due: Thu Oct 14 17:00:00 2021
+
+   -> requires 5
+067_read_constr2 Due: Thu Oct 14 17:00:00 2021
+
+   -> requires 5
+068_vector_ctor Due: Thu Oct 14 17:00:00 2021
+
+   -> requires 10
+069_point Due: Thu Oct 14 17:00:00 2021
+
+   -> requires 10
+070_circle Due: Sat Oct 16 17:00:00 2021
+
+   -> requires 10
+071_ch16_rq Due: Mon Oct 18 17:00:00 2021
+
+   -> requires 1
+072_read_refs2 Due: Tue Oct 19 17:00:00 2021
+
+   -> requires 5
+073_read_strs Due: Tue Oct 19 17:00:00 2021
+
+   -> requires 5
+074_int_array Due: Tue Oct 19 17:00:00 2021
+
+   -> requires 10
+075_int_matrix Due: Tue Oct 19 17:00:00 2021
+
+   -> requires 10
+076_ch17_rq Due: Wed Oct 20 17:00:00 2021
+
+   -> requires 1
+077_read_templ1 Due: Thu Oct 21 17:00:00 2021
+
+   -> requires 5
+078_read_templ2 Due: Thu Oct 21 17:00:00 2021
+
+   -> requires 10
+079_sort_cpp Due: Thu Oct 21 17:00:00 2021
+
+   -> requires 10
+080_matrix_templ Due: Sat Oct 23 17:00:00 2021
+
+   -> requires 10
+081_ch18_rq Due: Mon Oct 25 17:00:00 2021
+
+   -> requires 1
+082_read_inh Due: Tue Oct 26 17:00:00 2021
+
+   -> requires 5
+083_expr_eval1 Due: Tue Oct 26 17:00:00 2021
+
+   -> requires 10
+084_expr_eval2 Due: Tue Oct 26 17:00:00 2021
+
+   -> requires 10
+085_expr_eval3 Due: Tue Oct 26 17:00:00 2021
+
+   -> requires 10
+086_ch19_rq Due: Wed Oct 27 17:00:00 2021
+
+   -> requires 1
+087_read_exn Due: Thu Oct 28 17:00:00 2021
+
+   -> requires 5
+088_read_vec Due: Thu Oct 28 17:00:00 2021
+
+   -> requires 5
+089_ch20_rq Due: Fri Oct 29 17:00:00 2021
+
+   -> requires 1
+090_ch21_rq Due: Mon Nov  1 17:00:00 2021
+
+   -> requires 1
+091_tests_lls Due: Tue Nov  2 17:00:00 2021
+
+   -> requires 1
+092_lls Due: Thu Nov  4 17:00:00 2021
+
+   -> requires 10
+093_eval3 Due: Fri Dec  3 16:00:00 2021
+ **HARD DEADLINE**
+   -> requires 1
+094_ch22_rq Due: Mon Nov  8 16:00:00 2021
+
+   -> requires 1
+095_traversals Due: Tue Nov  9 16:00:00 2021
+
+   -> requires 5
+096_tests_binsrch Due: Tue Nov  9 16:00:00 2021
+
+   -> requires 1
+097_binsrch Due: Thu Nov 11 16:00:00 2021
+
+   -> requires 10
+098_bst_map Due: Thu Nov 11 16:00:00 2021
+
+   -> requires 10
+099_bst_set Due: Thu Nov 11 16:00:00 2021
+
+   -> requires 10
+100_ch23_rq Due: Fri Nov 12 16:00:00 2021
+
+   -> requires 1
+101_ch24_rq Due: Mon Nov 15 16:00:00 2021
+
+   -> requires 1
+102_huff_freq Due: Tue Nov 16 16:00:00 2021
+
+   -> requires 10
+103_huff_tree Due: Tue Nov 16 16:00:00 2021
+
+   -> requires 10
+104_huff_map Due: Tue Nov 16 16:00:00 2021
+
+   -> requires 10
+105_huff_all Due: Tue Nov 16 16:00:00 2021
+
+   -> requires 10
+106_ch25_rq Due: Wed Nov 17 16:00:00 2021
+
+   -> requires 1
+107_ch26_rq Due: Fri Nov 19 16:00:00 2021
+
+   -> requires 1
+108_ch27_rq Due: Mon Nov 22 16:00:00 2021
+
+   -> requires 1
+109_ch28_rq Due: Mon Nov 29 16:00:00 2021
+
+   -> requires 1
+110_ch29_rq Due: Wed Dec  1 16:00:00 2021
+ **HARD DEADLINE**
+   -> requires 1
